@@ -2,4 +2,4 @@ cmake_minimum_required(VERSION 3.10)
 
 project(AssistantMaker)
 
-add_executable(AssistantMaker src/main.cpp)
+add_subdirectory(src)

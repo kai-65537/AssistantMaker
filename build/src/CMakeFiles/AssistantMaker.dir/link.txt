@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/AssistantMaker.dir/main.cpp.o -o AssistantMaker 
