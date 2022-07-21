@@ -23,8 +23,8 @@ These quirks, in our consideration is for decresing the number of options availi
 These options may be included in the manner of "advanced options" hiding from the main panel and UI, but these features will not be implemented before the primary goal is achieved.
 
 ## Contributors
-- Caeruleum - Programmer, temporary project director.
-- Kdou - UI designer
+- **Caeruleum** - Programmer, temporary project director.
+- **Kdou** - UI designer.
 
 We'll be more than happy to recieve your help, too! Here's what you can do:
 - post an issue to this github page
