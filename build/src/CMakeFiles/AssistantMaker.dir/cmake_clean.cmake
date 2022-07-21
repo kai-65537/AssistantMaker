@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "AssistantMaker"
-  "AssistantMaker.pdb"
+  "../../bin/AssistantMaker"
+  "../../bin/AssistantMaker.pdb"
   "CMakeFiles/AssistantMaker.dir/main.cpp.o"
   "CMakeFiles/AssistantMaker.dir/main.cpp.o.d"
 )
