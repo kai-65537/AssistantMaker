@@ -262,4 +262,5 @@ src/CMakeFiles/AssistantMaker.dir/main.cpp.o: \
  /usr/local/include/opencv4/opencv2/videoio.hpp \
  /home/caeruleum/AssistentMaker/src/gridAssistant.cpp \
  /usr/local/include/opencv4/opencv2/imgproc.hpp \
- /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp
+ /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp \
+ /home/caeruleum/AssistentMaker/src/portraitAssistant.cpp

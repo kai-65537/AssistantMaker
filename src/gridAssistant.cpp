@@ -1,7 +1,7 @@
 #include <opencv2/core.hpp>
 #include <opencv2/imgproc.hpp>
 
-cv::Mat makeGridAssistant(cv::Mat image, cv::Scalar color, int dividers, int lineWidth){
+cv::Mat drawGridAssistant(cv::Mat image, cv::Scalar color, int dividers, int lineWidth){
 	
 	cv::Mat result = image.clone();
 

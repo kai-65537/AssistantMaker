@@ -314,8 +314,11 @@ src/CMakeFiles/AssistantMaker.dir/main.cpp.o: ../src/main.cpp \
   /usr/local/include/opencv4/opencv2/videoio.hpp \
   ../src/gridAssistant.cpp \
   /usr/local/include/opencv4/opencv2/imgproc.hpp \
-  /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp
+  /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp \
+  ../src/portraitAssistant.cpp
 
+
+../src/portraitAssistant.cpp:
 
 /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp:
 
