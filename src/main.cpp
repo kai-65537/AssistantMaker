@@ -7,7 +7,7 @@
 
 int main(){
 	cv::Mat source = cv::imread("../test/Lenna.png");
-	cv::Mat result = drawPrisonAssistant(source, cv::Scalar(255, 255, 255), 3, 4, false);
+	cv::Mat result = drawGridAssistant(source, cv::Scalar(255, 255, 255), 3, 4, true);
 	cv::imshow("result", result);
 	cv::waitKey(0);
 	cv::destroyWindow("result");

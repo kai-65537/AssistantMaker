@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 project(AssistantMaker)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${AssistantMaker_SOURCE_DIR}/bin)
+set(CMAKE_BUILD_TYPE Debug)
 
 find_package(OpenCV REQUIRED)
 find_package(wxWidgets REQUIRED)
